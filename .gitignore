@@ -1,0 +1,19 @@
+# Hidden files and directories
+.*
+*/.*
+!.gitignore
+
+# Build outputs and executables
+bin/
+*.o
+*.a
+*.so
+*.out
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs and test artifacts
+*.log
+testlogs/
